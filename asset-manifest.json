@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/quiz-game/static/js/main.f5fc8aed.chunk.js",
+    "main.js.map": "/quiz-game/static/js/main.f5fc8aed.chunk.js.map",
+    "runtime-main.js": "/quiz-game/static/js/runtime-main.0ff60c08.js",
+    "runtime-main.js.map": "/quiz-game/static/js/runtime-main.0ff60c08.js.map",
+    "static/js/2.bf20ed47.chunk.js": "/quiz-game/static/js/2.bf20ed47.chunk.js",
+    "static/js/2.bf20ed47.chunk.js.map": "/quiz-game/static/js/2.bf20ed47.chunk.js.map",
+    "index.html": "/quiz-game/index.html",
+    "precache-manifest.ecb9557e3cb499d0397e4fda3676e081.js": "/quiz-game/precache-manifest.ecb9557e3cb499d0397e4fda3676e081.js",
+    "service-worker.js": "/quiz-game/service-worker.js",
+    "static/js/2.bf20ed47.chunk.js.LICENSE.txt": "/quiz-game/static/js/2.bf20ed47.chunk.js.LICENSE.txt",
+    "static/media/tetris.jpg": "/quiz-game/static/media/tetris.544ee49d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ff60c08.js",
+    "static/js/2.bf20ed47.chunk.js",
+    "static/js/main.f5fc8aed.chunk.js"
+  ]
+}
